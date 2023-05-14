@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300);
+
+body{
+  background:#ff6b6b;
+  color:white;
+  font-family: 'Lato', sans-serif;
+  font-weight:100;
+}
+h1{
+  font-size:4em;
+  text-align:center;
+  font-family:"lato";
+  font-weight:100;
+}
+
+img{
+  width:250px;
+  margin:auto;
+  transition: all 0.2s;
+  display:block;
+}
+#flower{
+  width:250px;
+  margin:auto;
+}
+#flower:hover{
+  opacity:0.15;
+  cursor:pointer;
+  
